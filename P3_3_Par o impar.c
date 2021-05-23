@@ -1,4 +1,4 @@
-/*Deep3_Prog:
+/*Deep3_Prog3:
 verificar si es par e impar*/
  #include <stdio.h>
  int main()
